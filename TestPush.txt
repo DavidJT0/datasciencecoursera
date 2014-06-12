@@ -1,0 +1,1 @@
+This is a file created with the GIT Bash that will be pulled on Github via Bash prompt.
